@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "io.github.mahmoodana1.quran", "sha256_cert_fingerprints": ["6D:2B:B3:4E:57:B5:4A:9D:62:02:AC:49:17:09:5B:C5:8D:C4:7C:62:E6:47:8C:7D:EE:AA:EE:31:A4:BE:87:2D"] }
+}]
